@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:stm32
+LIBS:Maple_Mini_Template-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -44,13 +45,13 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 7725 1425 2075 1975
+S 7875 1175 2075 1975
 U 57F84F92
 F0 "Maple_mini" 60
 F1 "Maple_mini.sch" 60
-F2 "3V3" I L 7725 1775 60 
-F3 "D-" I L 7725 2275 60 
-F4 "D+" I L 7725 2425 60 
-F5 "5V" I L 7725 1975 60 
+F2 "3V3" I L 7875 1525 60 
+F3 "D-" I L 7875 2025 60 
+F4 "D+" I L 7875 2175 60 
+F5 "5V" I L 7875 1725 60 
 $EndSheet
 $EndSCHEMATC
