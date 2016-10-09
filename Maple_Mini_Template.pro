@@ -1,4 +1,4 @@
-update=2016-10-08 오후 5:11:48
+update=2016년 10월 09일 (일) 오후 06시 29분 30초
 version=1
 last_client=kicad
 [pcbnew]
